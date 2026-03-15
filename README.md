@@ -18,3 +18,4 @@ Data Visualization: Created a 5-page interactive dashboard with consistent brand
 Advanced Features: Implemented page navigation, sync slicers, and dynamic titles.
 
 Analysis: Performed Root Cause Analysis (RCA) using Tenure and Service distribution
+![Churned Customers](Screens/Churn.jpeg)
